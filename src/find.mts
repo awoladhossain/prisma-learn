@@ -11,4 +11,5 @@ const main = async () => {
     },
   });
   console.log({ findFirst });
+  console.log(3-3)
 };
